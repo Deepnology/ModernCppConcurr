@@ -22,8 +22,8 @@
 #include "AtomicStack.h"
 int main()
 {
-    //NewAlgorithm::Run();
-    //ThreadSafeLinkedList::Run();
+    NewAlgorithm::Run();
+    ThreadSafeLinkedList::Run();
     //DotProductAsync::Run();
     //PackagedTask::Run();
     //SharedFuture::Run();
