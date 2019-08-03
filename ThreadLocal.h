@@ -1,5 +1,5 @@
-#ifndef EDUCATIVEMODERNCPPCONCUR_THREADLOCAL_H
-#define EDUCATIVEMODERNCPPCONCUR_THREADLOCAL_H
+#ifndef MODERNCPPCONCURR_THREADLOCAL_H
+#define MODERNCPPCONCURR_THREADLOCAL_H
 #include <iostream>
 #include <string>
 #include <mutex>
@@ -40,4 +40,4 @@ namespace ThreadLocal
         std::cout << "&s: " << &s << std::endl;
     }
 }
-#endif //EDUCATIVEMODERNCPPCONCUR_THREADLOCAL_H
+#endif //MODERNCPPCONCURR_THREADLOCAL_H
