@@ -1,5 +1,5 @@
-#ifndef EDUCATIVEMODERNCPPCONCUR_SINGLETON_H
-#define EDUCATIVEMODERNCPPCONCUR_SINGLETON_H
+#ifndef MODERNCPPCONCURR_SINGLETON_H
+#define MODERNCPPCONCURR_SINGLETON_H
 #include <chrono>
 #include <iostream>
 #include <future>
@@ -215,4 +215,4 @@ namespace Singleton
         }
     }
 }
-#endif //EDUCATIVEMODERNCPPCONCUR_SINGLETON_H
+#endif //MODERNCPPCONCURR_SINGLETON_H
